@@ -62,6 +62,10 @@ ul {
   background-repeat: no-repeat;
   background-position: 20% 30%;
   background-color: #041e42;
+  height: 100px;
+  margin-bottom:  5px;
+  margin-top: 5px;
+  padding: 5px;
 }
 #newsletter h4{
   font-size: 22px;
