@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: palevioletred;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  body {
+    background-color: grey;
+    width: auto;
+  }
+  h1 {
+    color: blue;
+  }
+  .first{
+    color: rgb(78, 78, 138);
+    font-style: italic;
+    font-weight: 700;
+  }
+  p {
+    color: rgb(236, 206, 149);
+  }
+.blog-header{
+    width: 200px;
+    background-size: cover;
+}
+
+#blog .food-details{
+    width: 50%;
+}
+
+#blog .food-details {
+    text-decoration: none;
+    font-size: 11px;
+    color: #000;
+    font-weight: 700;  
+    position: relative;
+    transition: 0.3s;
+}
+
+/*
+#blog .blog-box{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    position: relative;
+    padding-bottom: 90px;
+}
+
+#blog .blog-details a{
+    text-decoration: none;
+    font-size: 11px;
+    color: #000;
+    font-weight: 700;  
+    position: relative;
+    transition: 0.3s;
+}
+*/
